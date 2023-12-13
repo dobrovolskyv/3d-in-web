@@ -33,7 +33,7 @@ const About = () => {
         </div>
       </div>
 
-      <div className='py-16'>
+      {/* <div className='py-16'>
         <h3 className='subhead-text'>Work Ecperience</h3>
         <div className='m-5 flex flex-col gap-3 text-slate-500'>
           <p>I've worked with all sorts of companies, leveling up my skills and teaming up with smart peaople.</p>
@@ -83,7 +83,7 @@ const About = () => {
             ))}
           </VerticalTimeline>
         </div>
-      </div>
+      </div> */}
 
 
       <hr className='border-slate-200'/>
